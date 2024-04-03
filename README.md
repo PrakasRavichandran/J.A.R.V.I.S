@@ -96,4 +96,4 @@ We welcome contributions to J.A.R.V.I.S.! If you wish to contribute, please foll
 J.A.R.V.I.S. is released under the [MIT License](LICENSE), granting users the freedom to use, modify, and distribute the software. Make sure to review the license terms before using or contributing to the project.
 
 ---
-For any questions or inquiries, feel free to reach out to the project owner at lee.pham@example.com. We appreciate your interest in J.A.R.V.I.S.!
+For any questions or inquiries, feel free to reach out to the project owner at prakashravichandran.netlify.app. We appreciate your interest in J.A.R.V.I.S.!
